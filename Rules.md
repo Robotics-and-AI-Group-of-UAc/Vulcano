@@ -26,3 +26,5 @@ O robot ganha pontos da seguinte forma:
     2. Grupo 2 - a média de idades da equipa é superior a 15 anos.
 
 2. O robot utilizado por cada equipa deverá ter no máximo 30 cm de comprimento e 25 de largura. Deverá ser maioritariamente desenvolvido pelas equipas. Não serão permitidos produtos comerciais ou kits nos quais os alunos não tenham participado no seu desenvolvimento.
+
+3. ???
