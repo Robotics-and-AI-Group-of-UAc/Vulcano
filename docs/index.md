@@ -7,7 +7,7 @@ O vulcão está numa fase ativa e no interior da cratera existe um lago de lava 
 O robot terá de subir uma rampa no final da qual existe uma fonte de radiação infravermelha (700 nm ~ 1100 nm) e de calor. A rampa tem um comprimento de 3,5 metros por 95 cm de largura e a sua superfície é revestida por bagacina (lapilli) parcialmente solta, com uma inclinação de aproximadamente 15º. 
 No início da rampa existe uma linha de partida/chegada e no cimo da rampa uma outra linha, de cor vermelha, laranja ou amarela, que indicará o ponto onde o robot deverá inverter a marcha, descendo a rampa.
 
-![azbot1c](img/rampa.png)
+![azbot1c](../img/rampa.png)
 
 O robot ganha pontos da seguinte forma:
 
