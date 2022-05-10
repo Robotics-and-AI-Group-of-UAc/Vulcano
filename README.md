@@ -2,7 +2,7 @@
 
 ![azbot1c](img/vulcano.png)
 
-##### Development repository for a new azorean robotic challenge.
+##### Repositório de desenvolvimento de um robô para um novo desafio.
 
 
 
