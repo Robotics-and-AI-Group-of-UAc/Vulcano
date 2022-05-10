@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+##### Cenário 
 
-You can use the [editor on GitHub](https://github.com/Robotics-and-AI-Group-of-UAc/Vulcano/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+O vulcão está numa fase ativa e no interior da cratera existe um lago de lava a temperaturas altíssimas emanando gases tóxicos para qualquer ser vivo. A tua tarefa é construir um robot capaz de se aproximar da cratera e tirar alguns parâmetros através de sensores.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### Desafio
 
-### Markdown
+O robot terá de subir uma rampa no final da qual existe uma fonte de radiação infravermelha (700 nm ~ 1100 nm) e de calor. A rampa tem um comprimento de 3,5 metros por 95 cm de largura e a sua superfície é revestida por bagacina (lapilli) parcialmente solta, com uma inclinação de aproximadamente 15º. 
+No início da rampa existe uma linha de partida/chegada e no cimo da rampa uma outra linha, de cor vermelha, laranja ou amarela, que indicará o ponto onde o robot deverá inverter a marcha, descendo a rampa.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![azbot1c](img/rampa.png)
 
-```markdown
-Syntax highlighted code block
+O robot ganha pontos da seguinte forma:
 
-# Header 1
-## Header 2
-### Header 3
+- Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
+- Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 
-- Bulleted
-- List
+##### Regras
 
-1. Numbered
-2. List
+1. As equipas podem ser constituídas por um máximo de 5 alunos e um tutor. As equipas serão divididas em dois grupos em função das médias de idade dos elementos das mesmas, sem contar com o tutor. A idade mínima dos elementos da equipa é de 9 anos:
+    1. Grupo 1 - a média de idades da equipa não pode ultrapassar os 15 anos.
+    2. Grupo 2 - a média de idades da equipa é superior a 15 anos.
 
-**Bold** and _Italic_ and `Code` text
+2. O robô utilizado por cada equipa deverá ter no máximo 30 cm de comprimento e 25 de largura e ser completamente autónomo. Deverá ser maioritariamente desenvolvido pelas equipas. Não serão permitidos produtos comerciais ou kits nos quais os alunos não tenham participado no seu desenvolvimento. Neste primeiro desafio a organização disponibilizará um robô tipo que pode ser alterado pelas equipas durante o período de montagem e durante o período de prova. 
 
-[Link](url) and ![Image](src)
-```
+3. O robô poderá ser equipado com qualquer tipo de roda, wheg ou um misto das duas. Não serão permitidos sistemas que usem lagartas nem qualquer tipo de roda ou wheg comercial. São permitidos robôs que usem pernas, desde que estas tenham sido produzidas pelas próprias equipas.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Robotics-and-AI-Group-of-UAc/Vulcano/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+4. 
