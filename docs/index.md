@@ -13,7 +13,7 @@ No início da rampa existe uma linha de partida/chegada e no cimo da rampa uma o
 
 O robot ganha pontos da seguinte forma:
 
-- Ao atingir o topo da rampa e parar na linha vermelha sinalizando com um led a leitura da cor - 5 pontos
+- Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
 - Sinalizar com um led a leitura da cor da linha no topo da rampa - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 
