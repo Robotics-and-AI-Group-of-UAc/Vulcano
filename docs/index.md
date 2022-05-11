@@ -13,17 +13,20 @@ No início da rampa existe uma linha de partida/chegada e no cimo da rampa uma o
 
 O robot ganha pontos da seguinte forma:
 
-- Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
+- Ao atingir o topo da rampa e parar na linha vermelha sinalizando com um led a leitura da cor - 5 pontos
+- Sinalizar com um led a leitura da cor da linha no topo da rampa - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 
 ## Regras
 
 1. As equipas podem ser constituídas por um máximo de 5 alunos e um tutor. As equipas serão divididas em dois grupos em função das médias de idade dos elementos das mesmas, sem contar com o tutor. A idade mínima dos elementos da equipa é de 9 anos:
+
     1. Grupo 1 - a média de idades da equipa não pode ultrapassar os 15 anos.
+    
     2. Grupo 2 - a média de idades da equipa é superior a 15 anos.
 
 2. O robô utilizado por cada equipa deverá ter no máximo 30 cm de comprimento e 25 de largura e ser completamente autónomo. Deverá ser maioritariamente desenvolvido pelas equipas. Não serão permitidos produtos comerciais ou kits nos quais os alunos não tenham participado no seu desenvolvimento. Neste primeiro desafio a organização disponibilizará um robô tipo que pode ser alterado pelas equipas durante o período de montagem e durante o período de prova. 
 
 3. O robô poderá ser equipado com qualquer tipo de roda, wheg ou um misto das duas. Não serão permitidos sistemas que usem lagartas nem qualquer tipo de roda ou wheg comercial. São permitidos robôs que usem pernas, desde que estas tenham sido produzidas pelas próprias equipas.
 
-4. 
+4. O robô pode ser equipado com qualquer tipo de sensor que lhe permita orientar o seu movimento na rampa. O robô terá de ter obrigatoriamente um sensor de cor e um led. 
