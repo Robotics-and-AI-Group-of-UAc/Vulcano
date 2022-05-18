@@ -30,3 +30,7 @@ O robot ganha pontos da seguinte forma:
 3. O robô poderá ser equipado com qualquer tipo de roda, wheg ou um misto das duas. Não serão permitidos sistemas que usem lagartas nem qualquer tipo de roda ou wheg comercial. São permitidos robôs que usem pernas, desde que estas tenham sido produzidas pelas próprias equipas.
 
 4. O robô pode ser equipado com qualquer tipo de sensor que lhe permita orientar o seu movimento na rampa. O robô terá de ter obrigatoriamente um sensor de cor e um led. 
+
+5. Cada equipa poderá fazer um máximo de três tentativas para completar a prova, escolhendo no final qual a tentativa que pretende validar. A pontuação de cada tentativa não acumula com nenhuma das outras tentativas.
+
+6. Cada tentativa terá um tempo máximo de cinco minutos.
