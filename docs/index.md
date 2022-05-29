@@ -34,3 +34,7 @@ O robot ganha pontos da seguinte forma:
 5. Cada equipa poderá fazer um máximo de três tentativas para completar a prova, escolhendo no final qual a tentativa que pretende validar. A pontuação de cada tentativa não acumula com nenhuma das outras tentativas.
 
 6. Cada tentativa terá um tempo máximo de cinco minutos.
+
+____________________________
+
+<a href="https://github.com/Robotics-and-AI-Group-of-UAc/Vulcano/blob/main/docs/software.md"> Software a instalar: </a>
