@@ -36,5 +36,6 @@ O robot ganha pontos da seguinte forma:
 6. Cada tentativa terá um tempo máximo de cinco minutos.
 
 ____________________________
+## Software
 
 <a href="https://robotics-and-ai-group-of-uac.github.io/Vulcano/software.html"> Software a instalar </a>
