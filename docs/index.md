@@ -37,4 +37,4 @@ O robot ganha pontos da seguinte forma:
 
 ____________________________
 
-<a href="https://github.com/Robotics-and-AI-Group-of-UAc/Vulcano/blob/main/docs/software.md"> Software a instalar: </a>
+<a href="https://github.com/Robotics-and-AI-Group-of-UAc/Vulcano/blob/main/docs/software.md"> Software a instalar </a>
