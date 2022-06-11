@@ -12,10 +12,10 @@ void setup() {
 
 void loop() {  
   MotorControl.motorForwardLeft(20);
-  MotorControl.motorReverseRight(20);
+  MotorControl.motorForwardRight(20);
   delay(5000);
   MotorControl.motorReverseLeft(20);
-  MotorControl.motorForwardRight(20);
+  MotorControl.motorReverseRight(20);
   delay(5000); 
   MotorControl.motorSTOP(0);
   MotorControl.motorSTOP(1);
