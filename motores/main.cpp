@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include "ESP32MotorControl.h"
 
-// Motor initialization
+// Motor control Class initialization
 ESP32MotorControl MotorControl = ESP32MotorControl();
 
 void setup() {
