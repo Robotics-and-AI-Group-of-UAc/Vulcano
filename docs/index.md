@@ -27,8 +27,8 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 - Durante a subida:
     - Enviar continuamente uma leitura de temperatura e humidade para um servidor MQTT - 5 pontos
-    - Enviar uma leitura da temperatura do ponto quente para um servidor MQTT - 5 pontos
-
+    - Enviar uma leitura da temperatura do ponto quente para um servidor MQTT - para o robô durante dois segundos - 5 pontos
+    
 ## Regras
 
 1. As equipas podem ser constituídas por um máximo de 5 alunos e um tutor. As equipas serão divididas em dois grupos em função das médias de idade dos elementos das mesmas, sem contar com o tutor. A idade mínima dos elementos da equipa é de 9 anos:
