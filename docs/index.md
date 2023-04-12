@@ -31,7 +31,7 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
     
 ## Regras
 
-1. As equipas podem ser constituídas por um máximo de 5 alunos e um tutor. As equipas serão divididas em dois grupos em função das médias de idade dos elementos das mesmas, sem contar com o tutor. A idade mínima dos elementos da equipa é de 9 anos:
+1. As equipas podem ser constituídas por um máximo de 3 alunos e um tutor. As equipas serão divididas em dois grupos em função das médias de idade dos elementos das mesmas, sem contar com o tutor. A idade mínima dos elementos da equipa é de 9 anos:
 
     1. Grupo 1 - a média de idades da equipa não pode ultrapassar os 15 anos.
     
