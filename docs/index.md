@@ -13,7 +13,7 @@ No início da rampa existe uma linha de partida/chegada e no cimo da rampa uma o
 
 O desafio será dividido em duas categorias:
 
-# Iniciante
+### Iniciante
 Um desafio com programação mais simples e em que a sinalização das leituras dos sensores é feita com um led.
 
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
@@ -21,7 +21,7 @@ Um desafio com programação mais simples e em que a sinalização das leituras 
 - Sinalizar a leitura da cor da linha no topo da rampa - o led pisca três vezes - o robô para durante dois segundos - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 
-# Avançado
+### Avançado
 Um desafio com programação mais complexa que implica a comunicação do robô com um servidor através do protocolo MQTT.
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
