@@ -17,8 +17,8 @@ O desafio será dividido em duas categorias:
 Um desafio com programação mais simples e em que a sinalização das leituras dos sensores é feita com um led.
 
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
-- Sinalizar a leitura de um ponto quente na rampa - o led deve piscar uma vez - o robô para durante dois segundos - 5 pontos
-- Sinalizar a leitura da cor da linha no topo da rampa - o led pisca três vezes - o robô para durante dois segundos - 5 pontos
+- Sinalizar a leitura de um ponto quente na rampa - o led deve piscar uma vez - o robô para durante cinco segundos - 5 pontos
+- Sinalizar a leitura da cor da linha no topo da rampa - o led pisca três vezes - o robô para durante cinco segundos - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 
 ### Avançado
@@ -26,8 +26,8 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 - Durante a subida:
-    - Enviar continuamente uma leitura de temperatura e humidade para um servidor MQTT - 5 pontos
-    - Enviar uma leitura da temperatura do ponto quente para um servidor MQTT - para o robô durante dois segundos - 5 pontos
+    - Enviar continuamente uma leitura de temperatura e/ou humidade para um servidor MQTT - 5 pontos
+    - Enviar uma leitura da temperatura do ponto quente para um servidor MQTT - para o robô durante cinco segundos - 5 pontos
     
 ## Regras
 
@@ -48,6 +48,10 @@ Ambos os grupos poderão participar em qualquer um dos desafios, iniciante ou av
 5. Cada equipa poderá fazer um máximo de três tentativas para completar a prova, escolhendo no final qual a tentativa que pretende validar. A pontuação de cada tentativa não acumula com nenhuma das outras tentativas.
 
 6. Cada tentativa terá um tempo máximo de cinco minutos.
+7. Em caso de empate na pontuação será tido em conta o tempo efetuado pelas equipas que completaram todas as tarefas propostas.
+8. Os casos omissos e as dúvidas de interpretação deste regulamento serão resolvidos pelo júri.
+
+
 
 ____________________________
 ## Software
