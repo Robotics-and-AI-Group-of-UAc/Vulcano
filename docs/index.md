@@ -17,8 +17,8 @@ O desafio será dividido em duas categorias:
 Um desafio com programação mais simples e em que a sinalização das leituras dos sensores é feita com um led.
 
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
-- Sinalizar a leitura de um ponto quente na rampa - o led deve piscar uma vez - o robô para durante cinco segundos - 5 pontos
 - Sinalizar a leitura da cor da linha no topo da rampa - o led pisca três vezes - o robô para durante cinco segundos - 5 pontos
+- Sinalizar a leitura de um ponto quente na rampa - o led deve piscar uma vez - o robô para durante cinco segundos - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 
 ### Avançado
