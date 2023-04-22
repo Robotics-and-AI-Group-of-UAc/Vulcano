@@ -9,7 +9,7 @@ Aconselhamos a instalação do seguinte software com antecedência: <br>
 2. Como segunda opção podemos usar apenas o IDE do Arduino: <br>
     - <a href="https://www.arduino.cc/en/software" target="_blank"> Arduino IDE </a>
 
-Para que possam imprimir peças em 3D durante os dias do festival nas impressoras disponibilizadas devem instalar o seguinte Slicer:
+Para que possam imprimir peças em 3D durante os dias do festival, nas impressoras disponibilizadas, devem instalar o seguinte Slicer:
     - <a href="https://www.flashforge.com/product-detail/FlashPrint-slicer-for-flashforge-fdm-3d-printers" target="_blank"> F
 lashPrint </a>
 
