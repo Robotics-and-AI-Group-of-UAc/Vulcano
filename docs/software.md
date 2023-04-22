@@ -9,4 +9,8 @@ Aconselhamos a instalação do seguinte software com antecedência: <br>
 2. Como segunda opção podemos usar apenas o IDE do Arduino: <br>
     - <a href="https://www.arduino.cc/en/software" target="_blank"> Arduino IDE </a>
 
+Para que possam imprimir peças em 3D devem instalar o seguinte Slicer:
+    - <a href="https://www.flashforge.com/product-detail/FlashPrint-slicer-for-flashforge-fdm-3d-printers" target="_blank"> F
+lashPrint </a>
+
 <a href="https://robotics-and-ai-group-of-uac.github.io/Vulcano/"> Voltar à página inicial </a>
