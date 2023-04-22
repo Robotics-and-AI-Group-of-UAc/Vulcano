@@ -48,7 +48,9 @@ Ambos os grupos poderão participar em qualquer um dos desafios, iniciante ou av
 5. Cada equipa poderá fazer um máximo de três tentativas para completar a prova, escolhendo no final qual a tentativa que pretende validar. A pontuação de cada tentativa não acumula com nenhuma das outras tentativas.
 
 6. Cada tentativa terá um tempo máximo de cinco minutos. Durante este período as equipas são livres de recomeçar o desafio. Após cada recomeço a pontuação retorna a zero.
+
 7. Em caso de empate na pontuação será tido em conta o tempo efetuado pelas equipas que completaram todas as tarefas propostas.
+
 8. Os casos omissos e as dúvidas de interpretação deste regulamento serão resolvidos pelo júri.
 
 
