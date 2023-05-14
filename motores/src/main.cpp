@@ -29,9 +29,7 @@ void robotStop() {
 
 void setup() {
     Serial.begin(115200);
-    pinMode(sensors[0], INPUT);
-    pinMode(sensors[1], INPUT);
-    pinMode(sensors[2], INPUT);
+    
     // Attach 2 motors
     MotorControl.attachMotors(IN1, IN2, IN3, IN4, 1000);
 }
