@@ -1,0 +1,1 @@
+## Código exemplo de funcionamento do sensor de temperatura
