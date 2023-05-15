@@ -17,7 +17,7 @@ void loop() {
   float ObjTemp = mlx.readObjectTempC();
   if(ObjTemp > 30){
     digitalWrite(LED, 1);
-  }else{
+    delay(5000);
     digitalWrite(LED, 0);
   }
 }
