@@ -19,12 +19,8 @@ void setup() {
    *  - color sensor enable
    */
     
-	RGBWSensor.setConfiguration(VEML6040_IT_320MS + VEML6040_AF_AUTO + VEML6040_SD_ENABLE);
-	
-  delay(1500);
-  Serial.println("Vishay VEML6040 RGBW color sensor auto mode example");
-  Serial.println("CCT: Correlated color temperature in \260K");
-  Serial.println("AL: Ambient light in lux");
+	RGBWSensor.setConfiguration(VEML6040_IT_320MS + VEML6040_AF_AUTO + VEML6040_SD_ENABLE);	
+  
   delay(1500);
 }
 
