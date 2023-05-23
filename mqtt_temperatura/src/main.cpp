@@ -1,23 +1,35 @@
+#include <Arduino.h>
+#include <Wire.h>
 #include "Adafruit_MLX90614.h"
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 #include "wifi/WiFiMulti.h"
-#include <Arduino.h>
-#include <Wire.h>
 
+// SSID e password da rede wifi
 #define WLAN_SSID "robotica_2"
 #define WLAN_PASS "passwordrt"
+// IP e porta do servidor MQTT
 #define AIO_SERVER "10.129.35.194"
 #define AIO_SERVERPORT 1883
 
+//Variáveis da temperatura ambiente e objecto
+float ambientCelsius = 0.0;
+float objectCelsius = 0.0;
+
+//Instância do sensor de temperatura
 Adafruit_MLX90614 mlx = Adafruit_MLX90614();
+//Instância do cliente de wifi
 WiFiClient client;
 
 // Setup the MQTT client class by passing in the WiFi client and MQTT server and login details.
 Adafruit_MQTT_Client mqtt(&client, AIO_SERVER, AIO_SERVERPORT);
+// temperatureOBJ e temperatureAMB são os nomes dos tópicos 
+// para onde vamos publicar
+// Durante os testes podemos mudar para algo diferente
 Adafruit_MQTT_Publish temperatureObj = Adafruit_MQTT_Publish(&mqtt, "temperatureOBJ");
 Adafruit_MQTT_Publish temperatureAmb = Adafruit_MQTT_Publish(&mqtt, "temperatureAMB");
 
+//Função para realizar a ligação MQTT
 void MQTT_connect() {
   int8_t ret;
 
@@ -63,18 +75,12 @@ void setup() {
     Serial.println("IP address: ");
     Serial.println(WiFi.localIP());
 
-    mlx.begin();
-
-    // mqtt.subscribe(&ledControl);
+    //Inicializamos o sensor de temperatura
+    mlx.begin();    
 }
 
-float ambientCelsius = 0.0;
-float objectCelsius = 0.0;
-
 void loop() {
-    MQTT_connect();
-  
-  //Adafruit_MQTT_Subscribe *subscription;
+  MQTT_connect();
 
   ambientCelsius = mlx.readAmbientTempC();
   objectCelsius = mlx.readObjectTempC();
