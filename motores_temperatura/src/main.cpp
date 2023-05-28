@@ -54,7 +54,7 @@ void setup() {
 
 void loop() {
     // Exemplo - o robo vai em frente até encontrar
-    // um objecto com temperatura maior que 30º
+    // um objecto com temperatura maior que 22º
     // nessa altura para durante 5 segundos
 
     unsigned long currentMillis = millis();
