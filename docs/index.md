@@ -13,7 +13,7 @@ No início da rampa existe uma linha de partida/chegada e no cimo da rampa uma o
 
 O desafio será dividido em duas categorias:
 
-### Iniciante
+### Iniciante (Nível I)
 Um desafio com programação mais simples e em que a sinalização das leituras dos sensores é feita com um led.
 
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
@@ -21,7 +21,7 @@ Um desafio com programação mais simples e em que a sinalização das leituras 
 - Sinalizar a leitura de um ponto quente na rampa - o led deve piscar uma vez - o robô para durante cinco segundos - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 
-### Avançado
+### Avançado (Nível II)
 Um desafio com programação mais complexa que implica a comunicação do robô com um servidor através do protocolo MQTT.
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
@@ -31,13 +31,7 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
     
 ## Regras
 
-1. As equipas podem ser constituídas por um máximo de 3 alunos e um tutor. As equipas serão divididas em dois grupos em função das médias de idade dos elementos das mesmas, sem contar com o tutor. A idade mínima dos elementos da equipa é de 9 anos:
-
-    1. Grupo 1 - a média de idades da equipa não pode ultrapassar os 15 anos.
-    
-    2. Grupo 2 - a média de idades da equipa é superior a 15 anos.
-
-Ambos os grupos poderão participar em qualquer um dos desafios, iniciante ou avançado, e poderão optar por um ou outro até ao final do segundo dia do festival.
+1. As equipas podem ser constituídas por um máximo de 3 alunos e um tutor. As equipas serão divididas em dois grupos em função das médias de idade dos elementos das mesmas, sem contar com o tutor. A idade mínima dos elementos da equipa é de 9 anos.
 
 2. O robô utilizado por cada equipa deverá ter no máximo 30 cm de comprimento e 25 de largura e ser completamente autónomo. Deverá ser maioritariamente desenvolvido pelas equipas. Não serão permitidos produtos comerciais ou kits nos quais os alunos não tenham participado no seu desenvolvimento. A organização disponibilizará um robô tipo que pode ser alterado pelas equipas durante o período de montagem e durante o período de prova. 
 
