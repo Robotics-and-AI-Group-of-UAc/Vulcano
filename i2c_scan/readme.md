@@ -1,1 +1,1 @@
-## Teste da ligaç
+## Teste da ligação dos sensores I2C
