@@ -18,8 +18,9 @@ Um desafio com programação mais simples e em que a sinalização das leituras 
 
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
 - Sinalizar a leitura da cor da linha no topo da rampa - o led pisca três vezes - o robô para durante cinco segundos - 5 pontos
-- Sinalizar a leitura de um ponto quente na rampa - o led deve piscar uma vez - o robô para durante cinco segundos - 5 pontos
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
+- Durante a subida:
+    - Sinalizar a leitura de um ponto quente na rampa - o led deve piscar uma vez - o robô para durante cinco segundos - 5 pontos
 
 ### Avançado (Nível II)
 Um desafio com programação mais complexa que implica a comunicação do robô com um servidor através do protocolo MQTT.
