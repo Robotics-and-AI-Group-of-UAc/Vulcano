@@ -43,7 +43,7 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
 
 5. Cada equipa poderá fazer um máximo de três tentativas para completar a prova, escolhendo no final qual a tentativa que pretende validar. A pontuação de cada tentativa não acumula com nenhuma das outras tentativas.
 
-6. Cada tentativa terá um tempo máximo de cinco minutos. Durante este período as equipas são livres de recomeçar o desafio. Após cada recomeço a pontuação retorna a zero. Para que uma tentativa ser validada o robô terá de ter realizado um mínimo de 15 pontos.
+6. Cada tentativa terá um tempo máximo de cinco minutos. Durante este período as equipas são livres de recomeçar o desafio. Após cada recomeço a pontuação retorna a zero. Para que uma tentativa possa ser validada o robô terá de ter realizado um mínimo de 15 pontos.
 
 7. Em caso de empate na pontuação será tido em conta o tempo efetuado pelas equipas que completaram todas as tarefas propostas.
 
