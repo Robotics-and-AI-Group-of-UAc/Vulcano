@@ -11,10 +11,10 @@ No início da rampa existe uma linha de partida/chegada e no cimo da rampa uma o
 
 ![Vulcano](https://raw.githubusercontent.com/Robotics-and-AI-Group-of-UAc/Vulcano/main/img/rampa.png)
 
-O desafio será dividido em duas categorias:
+O desafio será dividido em duas categorias, com pontuações de acordo com as tarefas que o robô deve desempenhar:
 
 ### Iniciante (Nível I)
-Um desafio com programação mais simples e em que a sinalização das leituras dos sensores é feita com um led.
+Um desafio com programação mais simples e em que a sinalização das leituras dos sensores é feita com um led. 
 
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
 - Sinalizar a leitura da cor da linha no topo da rampa - o led pisca três vezes - o robô para durante cinco segundos - 5 pontos
@@ -28,6 +28,7 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
 - Durante a subida:
     - Enviar continuamente uma leitura de temperatura e/ou humidade para um servidor MQTT - 5 pontos
     - Enviar uma leitura da temperatura do ponto quente para um servidor MQTT - para o robô durante cinco segundos - 5 pontos
+
     
 ## Regras
 
@@ -45,7 +46,10 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
 
 6. Cada tentativa terá um tempo máximo de cinco minutos. Durante este período as equipas são livres de recomeçar o desafio. Após cada recomeço a pontuação retorna a zero. Para que uma tentativa possa ser validada o robô terá de ter realizado um mínimo de 15 pontos.
 
-7. Em caso de empate na pontuação será tido em conta o tempo efetuado pelas equipas que completaram todas as tarefas propostas.
+7. As equipas devem fazer uma pequena apresentação final - máximo de 5 minutos - enumerando as alterações e/ou inovações feitas ao robô durante os dias do festival e o seu enquadramento no desafio. Esta apresentação será avaliada pelo júri numa escala de 1 a 5, sendo 5 o valor mais alto, de acordo com os seguintes critérios:
+    - Alterações/inovações efetuadas - 50%
+    - Execução técnica da alteração/inovação - 25%
+    - Valor técnico da alteração/inovação - 25%
 
 8. Os casos omissos e as dúvidas de interpretação deste regulamento serão resolvidos pelo júri.
 
