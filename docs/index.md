@@ -51,7 +51,13 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
     - Execução técnica da alteração/inovação - 25%
     - Valor técnico da alteração/inovação - 25%
 
-8. Os casos omissos e as dúvidas de interpretação deste regulamento serão resolvidos pelo júri.
+8. Durante os dias em que decorre o festival, as equipas serão avaliadas pelo júri numa escala de 1 a 5, sendo 5 o valor mais alto, no que aos seguintes parâmetros diz respeito:
+
+    - Organização 25%
+    - Trabalho de equipa 50%
+    - Fairplay 25%
+
+9. Os casos omissos e as dúvidas de interpretação deste regulamento serão resolvidos pelo júri.
 
 
 
