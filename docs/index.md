@@ -32,8 +32,8 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
 ## Regras
 
 1. As equipas podem ser constituídas por um máximo de 3 alunos e um tutor. As equipas serão divididas em dois grupos em função das médias de idade dos elementos das mesmas, sem contar com o tutor. A idade mínima dos elementos da equipa é de 9 anos. 
--- Grupo 1 - média de idades não ultrapassa os 16 anos                          
--- Grupo 2 - média de idades é superior a 16 anos
+    - Grupo 1 - média de idades não ultrapassa os 16 anos                          
+    - Grupo 2 - média de idades é superior a 16 anos
 
 2. O robô utilizado por cada equipa deverá ter no máximo 30 cm de comprimento e 25 de largura e ser completamente autónomo. Deverá ser maioritariamente desenvolvido pelas equipas. Não serão permitidos produtos comerciais ou kits nos quais os alunos não tenham participado no seu desenvolvimento. A organização disponibilizará um robô tipo que pode ser alterado pelas equipas durante o período de montagem e durante o período de prova. 
 
