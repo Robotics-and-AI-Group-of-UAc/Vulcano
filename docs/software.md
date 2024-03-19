@@ -12,4 +12,6 @@ Aconselhamos a instalação do seguinte software com antecedência: <br>
 Para que possam imprimir peças em 3D durante os dias do festival, nas impressoras disponibilizadas, devem instalar o seguinte Slicer:
     - <a href="https://www.flashforge.com/product-detail/FlashPrint-slicer-for-flashforge-fdm-3d-printers" target="_blank"> FlashPrint </a>
 
+Aconselhamos a descarregar, com antecedência, este repositório através de um dos links na área direita desta página.
+
 <a href="https://robotics-and-ai-group-of-uac.github.io/Vulcano/"> Voltar à página inicial </a>
