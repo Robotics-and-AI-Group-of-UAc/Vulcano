@@ -6,8 +6,8 @@
 #include "wifi/WiFiMulti.h"
 
 // SSID e password da rede wifi
-#define WLAN_SSID "robotica_2"
-#define WLAN_PASS "passwordrt"
+#define WLAN_SSID "robotica"
+#define WLAN_PASS "robotica2023"
 // IP e porta do servidor MQTT
 #define AIO_SERVER "10.129.35.194"
 #define AIO_SERVERPORT 1883
