@@ -1,5 +1,13 @@
 # Vulcano
 
+Todas as equipas devrão ter um kit de ferramenta com, pelo menos, os seguintes elemntos:
+- Chave de fendas;
+- Chave de estrela;
+- Alicate de corte;
+- Alicate de pontas;
+- Ferro de soldar;
+- Multímetro;
+
 Aconselhamos a instalação do seguinte software com antecedência: <br>
 
 1. Primeira opção - Visual Studio Code com IDE Platformio
