@@ -5,7 +5,7 @@ Todas as equipas devrão ter um kit de ferramenta com, pelo menos, os seguintes 
 - Chave de estrela;
 - Alicate de corte;
 - Alicate de pontas;
-- Ferro de soldar;
+- Ferro de soldar e solda;
 - Multímetro;
 
 Aconselhamos a instalação do seguinte software com antecedência: <br>
