@@ -25,6 +25,7 @@ Um desafio com programação mais simples e em que a sinalização das leituras 
 ### Avançado (Nível II)
 Um desafio com programação mais complexa que implica a comunicação do robô com um servidor através do protocolo MQTT.
 - Ao atingir o topo da rampa e parar na linha vermelha - 5 pontos
+- Sinalizar a leitura da cor da linha no topo da rampa - o led pisca três vezes - o robô para durante cinco segundos - 5 pontos 
 - Regressar ao ponto de partida após atingir a linha vermelha - 5 pontos
 - Durante a subida:
     - Enviar continuamente uma leitura de temperatura e/ou humidade para um servidor MQTT - 5 pontos
@@ -54,7 +55,7 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
 
 8. Durante os dias em que decorre o festival, as equipas serão avaliadas pelo júri numa escala de 1 a 5, sendo 5 o valor mais alto, no que aos seguintes parâmetros diz respeito:
 
-    - Organização - 1 ponto
+    - Organização da equipa e espaço de trabalho - 1 ponto
     - Trabalho de equipa - 2 pontos
     - Fairplay - 2 pontos
 
