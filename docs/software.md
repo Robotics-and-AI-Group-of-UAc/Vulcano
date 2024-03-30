@@ -1,6 +1,6 @@
 # Vulcano
 
-Todas as equipas devem dispôr de um kit de ferramenta com, pelo menos, os seguintes elemntos:
+Todas as equipas devem dispôr de um kit de ferramenta com, pelo menos, os seguintes elementos:
 - Chave de fendas;
 - Chave de estrela;
 - Alicate de corte;
