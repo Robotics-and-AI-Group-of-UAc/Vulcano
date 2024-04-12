@@ -7,7 +7,7 @@ O vulcão está numa fase ativa e no interior da cratera existe um lago de lava 
 
 ## Desafio
 
-Este é um desafio aos teus conhecimentos de programação, à tua criatividade e engenho, e à tua capacidade de trabalho em grupo. Não é um sprint, nem uma maratona mas três dias onde terás a oportunidade de adquirir conhecimentos com base nos que já possuis e pô-los em prática.
+Este é um desafio aos teus conhecimentos de programação, à tua criatividade e engenho, e à tua capacidade de trabalho em grupo. Não é um sprint, nem uma maratona, mas três dias onde terás a oportunidade de adquirir conhecimentos com base nos que já possuis e pô-los em prática.
 O robot terá de subir uma rampa no final da qual existe uma fonte de radiação infravermelha (700 nm ~ 1100 nm) e de calor. A rampa tem um comprimento entre 3,5 metros e 5 metros por 95 cm de largura e a sua superfície é revestida por um material imitando a escoada lávica de um vulcão, com uma inclinação de aproximadamente 15º. 
 No início da rampa existe uma linha de partida/chegada e no cimo da rampa uma outra linha, de cor vermelha, laranja ou amarela, que indicará o ponto onde o robot deverá inverter a marcha, descendo a rampa.
 
