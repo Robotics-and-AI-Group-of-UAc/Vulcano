@@ -50,14 +50,14 @@ Um desafio com programação mais complexa que implica a comunicação do robô 
 
 6. Cada tentativa terá um tempo máximo de cinco minutos. Durante este período as equipas são livres de recomeçar o desafio. Após cada recomeço a pontuação retorna a zero. Para que uma tentativa possa ser validada o robô terá de ter realizado um mínimo de 15 pontos.
 
-7. As equipas devem fazer uma pequena apresentação final - máximo de 5 minutos - enumerando as alterações e/ou inovações feitas ao robô durante os dias do festival e o seu enquadramento no desafio. Esta apresentação será avaliada pelo júri numa escala de 1 a 5, sendo 7 o valor mais alto, de acordo com os seguintes critérios:
+7. As equipas devem fazer uma pequena apresentação final - máximo de 5 minutos - enumerando as alterações e/ou inovações feitas ao robô durante os dias do festival e o seu enquadramento no desafio. Esta apresentação será avaliada pelo júri numa escala de 1 a 7, sendo 7 o valor mais alto, de acordo com os seguintes critérios:
     - Alterações/inovações efetuadas - 3 pontos
     - Execução técnica da alteração/inovação - 3 pontos
     - Valor técnico da alteração/inovação - 1 ponto
 
-8. Durante os dias em que decorre o festival, as equipas serão avaliadas pelo júri numa escala de 1 a 5, sendo 8 o valor mais alto, no que aos seguintes parâmetros diz respeito:
+8. Durante os dias em que decorre o festival, as equipas serão avaliadas pelo júri numa escala de 1 a 8, sendo 8 o valor mais alto, no que aos seguintes parâmetros diz respeito:
 
-    - Organização da equipa e espaço de trabalho - 2 ponto
+    - Organização da equipa e espaço de trabalho - 2 pontos
     - Trabalho de equipa - 3 pontos
     - Fairplay - 3 pontos
 
